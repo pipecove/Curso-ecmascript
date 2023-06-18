@@ -11,5 +11,6 @@
     "ecmascript"
   ],
   "author": "Felipe Contreras <pipecoveep@gmail.com>",
-  "license": "MIT"
+  "license": "MIT",
+  "type": "module"
 }
